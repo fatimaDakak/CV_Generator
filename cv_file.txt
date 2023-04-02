@@ -1,0 +1,10 @@
+-> Nom: dakak
+-> prenom: Fatima
+-> age: 22
+-> numero de telephone: 0658196104
+-> Email: fatima.dakak@etu.uae.ac.ma
+-> vous etes en:  Génie informatique
+-> annee: 2ème année 
+-> modules :Réseaux 
+-> nombre de projets: 3
+-> remarque: 
